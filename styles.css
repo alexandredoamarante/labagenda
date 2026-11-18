@@ -1,0 +1,5 @@
+/* Correção de acessibilidade e toque em dispositivos móveis */
+.btn-touch {
+    min-width: 44px;
+    min-height: 44px;
+}
